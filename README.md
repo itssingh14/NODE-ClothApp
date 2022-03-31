@@ -1,0 +1,3 @@
+->To access all features of this API create user with "isAdmin" fieldvalue to be "true"
+->Admin has all access and can apply CRUD operations on products and can also get analytical value of overall sale and can also change the status of order
+->User can only view product, add them to cart and can place order
